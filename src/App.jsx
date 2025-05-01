@@ -1,13 +1,13 @@
 import React from "react";
-import Navbar from "./temp123/Navbar/Navbar";
-import About from "./temp123/About/About";
-import Skills from "./temp123/Skills/Skills";
-import Experience from "./temp123/Experience/Experience";
-import Work from "./temp123/Projects/Projects";
-import Education from "./temp123/Education/Education";
-import Contact from "./temp123/Contact/Contact";
-import Footer from "./temp123/Footer/Footer";
-import BlurBlob from './temp123/BlurBlob';
+import Navbar from "./component/Navbar/Navbar";
+import About from "./component/About/About";
+import Skills from "./component/Skills/Skills";
+import Experience from "./component/Experience/Experience";
+import Work from "./component/Projects/Projects";
+import Education from "./component/Education/Education";
+import Contact from "./component/Contact/Contact";
+import Footer from "./component/Footer/Footer";
+import BlurBlob from './component/BlurBlob';
 
 const App = () => {
   return (
